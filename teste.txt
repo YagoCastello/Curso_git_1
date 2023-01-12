@@ -1,2 +1,9 @@
 testando repo
 mudando
+a
+b
+c
+d
+e
+f
+git
